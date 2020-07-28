@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fisenkodv/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/fisenkodv/" target="_blank">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisenkodv">
+</a>
