@@ -7,10 +7,11 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!--   <a href="https://github.com/fisenkodv">
+
+<a href="https://github.com/fisenkodv">
     <img align="left" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=fisenkodv&show_icons=true" />
   </a> -->
--->
+
 I'm software engineer, with more than 10 years of experience in design and development of various complexity applications, ranging from small-business solutions to sophisticated n-tier distributed applications. Strong analytical skills combined with the ability to define strategy and implementation details, theoretical background and hands-on experience in software development. Constantly improving and developing professional skills by comparing with the world best practices.
 
 ![](https://komarev.com/ghpvc/?username=fisenkodv&color=green&style=flat-square)
