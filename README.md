@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=fisenkodv&&show_icons=true&theme=tokyonight)](https://fisenko.net)
 
 <a href="https://github.com/fisenkodv/" target="_blank">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisenkodv">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisenkodv&layout=compact">
 </a>
 
