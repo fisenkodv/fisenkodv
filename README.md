@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about: .NET, C#, Java
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fisenkodv/)
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=fisenkodv&&show_icons=true&theme=tokyonight)](https://fisenko.net)
-
-<a href="https://github.com/fisenkodv/" target="_blank">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisenkodv&layout=compact">
+<a href="https://github.com/fisenkodv">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisenkodv&layout=compact" />
 </a>
-
+<a href="https://github.com/fisenkodv">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fisenkodv&&show_icons=true" />
+</a>
