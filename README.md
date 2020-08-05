@@ -19,7 +19,7 @@ I'm software engineer, with more than 10 years of experience in design and devel
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [Lucera Financial Infrastructures](https://lucera.com/)
-- 💬 Ask me about: .NET, C#, Java
+- 💬 Ask me about: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Java](https://go.java/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fisenkodv/)
 
 <div style="display: flex;">
