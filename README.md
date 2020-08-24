@@ -15,6 +15,7 @@
 I'm software engineer, with more than 10 years of experience in design and development of various complexity applications, ranging from small-business solutions to sophisticated n-tier distributed applications. Strong analytical skills combined with the ability to define strategy and implementation details, theoretical background and hands-on experience in software development. Constantly improving and developing professional skills by comparing with the world best practices.
 
 ![](https://komarev.com/ghpvc/?username=fisenkodv&color=green&style=flat-square)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [Lucera Financial Infrastructures](https://lucera.com/)
