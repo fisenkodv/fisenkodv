@@ -18,7 +18,7 @@ I'm software engineer, with more than 10 years of experience in design and devel
 Here are some ideas to get you started:
 
 - 🔭  I’m currently working at [Lucera Financial Infrastructures](https://lucera.com/)
-- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/fisenkodv/)
+- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/fisenkodv/), [Blog](https://blog.fisenko.net/)
 
 ---
 
